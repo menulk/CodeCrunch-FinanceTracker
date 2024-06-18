@@ -9,5 +9,6 @@ Expense tracker for Code Crunch - Interactive Project using Go Lang Features.
     -Standard Deviation Expense
  
 ## Screenshot
-<img src="ss1.PNG" >
-<img src="ss2.PNG" >
+<img src="ss01.PNG" >
+<img src="ss02.PNG" >
+<img src="ss03.PNG" >
